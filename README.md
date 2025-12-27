@@ -8,3 +8,7 @@ Features:
 Based from [jaden](https://github.com/jaden/totp-generator) totp gen
 
 Tested on [authenticationtest](https://authenticationtest.com/totpChallenge/)
+
+
+
+sidenote: Project was pretty much coded in one day and half of it was vibe coded.
